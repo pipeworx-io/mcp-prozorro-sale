@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-prozorro-sale",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "Prozorro.Sale MCP — Ukraine's state and municipal asset sales and leases (keyless).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "prozorro-sale",
     "gatewaySlug": "prozorro-sale",
-    "sourceHash": "v1-ee30b307fe9ca06be3474d3a70f4ad5ebbf14c22b93f246f1438ffdd6a36668a",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-c35bd3628a68361255cf7adaf49cf61b375d5a5827e33d1477d8568acfaa4552",
+    "sourceCommit": "db27387ed3ef7ec4805d465f7964a7f65f937006"
   }
 }
